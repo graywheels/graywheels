@@ -9,25 +9,25 @@ Welcome to my GitHub! I'm an Information Systems Management student at Brigham Y
 - 🎓 **BS in Information Systems Management** @ BYU Marriott School of Business (Expected April 2027)
 - 💡 STEM-Certified Technical Program with a 3.9 GPA
 - 💬 Fluent in **Mandarin Chinese** with over 9 years of study and real-world application
-- 🧗‍♂️ Eagle Scout, skier, swimmer, and lifelong learner
+- 🧗‍♂️ Skier, swimmer, and lifelong learner
 
 ---
 
 ## 💼 Experience Highlights
 
-### 🔧 Data Engineer Intern @ Nouri.AI
-- Built an **AI-powered chatbot** with Python, Streamlit, and LangChain for natural language database queries
-- Developed optimized MySQL schemas and interactive Power BI dashboards for C-suite reporting
-
-### 🌐 Full-Stack Developer @ BYU College of Social Sciences
+### 🌐 Full-Stack Developer @ BYU College of Social Sciences (august 2024 - present)
 - Resolved 12.5% of departmental **security vulnerabilities** (HIPAA compliant)
 - Migrated legacy web systems and enhanced user experience, reducing checkout time by **85%**
 
-### 🖥️ IT Help Desk Specialist @ BYU Continuing Education
+### 🔧 Data Engineering Internship @ Nouri.AI (january 2025 - May 2025)
+- Built an **AI-powered chatbot** with Python, Streamlit, and LangChain for natural language database queries
+- Developed optimized MySQL schemas and interactive Power BI dashboards for C-suite reporting
+
+### 🖥️ IT Help Desk Specialist @ BYU Continuing Education (june 2024 - september 2024)
 - Resolved **98%** of support tickets in under 24 hours
 - Strengthened infrastructure using **Active Directory** and Falcon endpoint security
 
-### 🌍 Volunteer Work
+### 🌍 Volunteer Work (2022 - 2024)
 - Taught English to over 100 Chinese immigrants, increasing proficiency by **45%**
 - Led events that boosted attendance by **70%**, serving the Chinese-speaking community in Boston
 
@@ -41,12 +41,9 @@ Welcome to my GitHub! I'm an Information Systems Management student at Brigham Y
 
 ## 🔗 Connect with Me
 
-- 🌐 [Personal Website](https://graywheeeler.github.io/GWheelerResume/)
+- 🌐 [Personal Website](https://graywheels.github.io/GWheelerResume/)
 - 💼 [LinkedIn](http://www.linkedin.com/in/graywheeeler)
 - 📫 [Email Me](mailto:graywlr@byu.edu)
 
 ---
 
-> “Technology is best when it brings people together.” — Matt Mullenweg
-
-Thanks for visiting!
