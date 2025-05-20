@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Gray Wheeler
 
-Welcome to my GitHub! I'm an Information Systems Management student at Brigham Young University with a passion for data engineering, full-stack development, and problem-solving through technology. This repository contains my professional resume and serves as a snapshot of my journey in tech, leadership, and service.
+Welcome to my GitHub! I'm a student at Brigham Young University with a passion for data engineering, full-stack development, and problem-solving through technology. This repository contains my professional resume and serves as a snapshot of my journey in tech, leadership, and service.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 **BS in Information Systems Management** @ BYU Marriott School of Business (Expected April 2027)
-- 💡 STEM-Certified Technical Program with a 3.9 GPA
+- 🎓 **BYU Student** Expected Graduation of April 2027
 - 💬 Fluent in **Mandarin Chinese** with over 9 years of study and real-world application
 - 🧗‍♂️ Skier, swimmer, and lifelong learner
 
