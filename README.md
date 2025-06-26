@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a student at Brigham Young University with a passion f
 - Resolved 12.5% of departmental **security vulnerabilities** (HIPAA compliant)
 - Migrated legacy web systems and enhanced user experience, reducing checkout time by **85%**
 
-### 🔧 Data Engineering Internship @ Nouri.AI (january 2025 - May 2025)
+### 🔧 Data Engineering Internship @ Nouri.AI (january 2025 - may 2025)
 - Built an **AI-powered chatbot** with Python, Streamlit, and LangChain for natural language database queries
 - Developed optimized MySQL schemas and interactive Power BI dashboards for C-suite reporting
 
