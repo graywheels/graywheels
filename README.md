@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gray Wheeler
+# 👋 Hi, I'm Austin Wheeler
 
 Welcome to my GitHub! I'm a student at Brigham Young University with a passion for data engineering, full-stack development, and problem-solving through technology. This repository contains my professional resume and serves as a snapshot of my journey in tech, leadership, and service.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a student at Brigham Young University with a passion f
 
 - 🎓 **BYU Student** Expected Graduation of April 2027
 - 💬 Fluent in **Mandarin Chinese** with over 9 years of study and real-world application
-- 🧗‍♂️ Skier, swimmer, and lifelong learner
+- 🧗‍♂️ Skier, swimmer, and lifelong learner! My friends call me Ozzy!
 
 ---
 
