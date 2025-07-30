@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a student at Brigham Young University with a passion f
 
 ## 🧠 About Me
 
-- 🎓 **BYU Information Systems** Expected Graduation of April 2027
+- 🎓 **BYU Information Systems**, Expected Graduation of April 2027
 - 💬 Fluent in **Mandarin Chinese** with over 9 years of study and real-world application
 - 🧗‍♂️ Skier, swimmer, and lifelong learner! 
 
