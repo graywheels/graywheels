@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a student at Brigham Young University with a passion f
 ## 🔗 Connect with Me
 
 - 🌐 [Personal Website](https://graywheels.github.io/GWheelerResume/)
-- 💼 [LinkedIn](http://www.linkedin.com/in/graywheeeler)
+- 💼 [LinkedIn](http://www.linkedin.com/in/austinwlr)
 - 📫 [Email Me](mailto:graywlr@byu.edu)
 
 ---
