@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Austin Wheeler
 
 Welcome to my GitHub! I'm a student at Brigham Young University with a passion for data engineering, full-stack development, and problem-solving through technology. This repository contains my professional resume and serves as a snapshot of my journey in tech, leadership, and service.
+View my personal site here: https://graywheels.github.io/GWheelerResume/
 
 ---
 
