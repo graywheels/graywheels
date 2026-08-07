@@ -1,4 +1,4 @@
-# Gray Austin Wheeler
+# Gray Wheeler
 
 Welcome to my GitHub. I am an Information Systems student at Brigham Young University with a focus on data analytics, full-stack development, and automation. This repository serves as a snapshot of my technical journey, professional experience, and academic projects.
 
